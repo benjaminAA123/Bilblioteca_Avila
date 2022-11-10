@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila &#10;falta ver error parte Prestar" />
+    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila casi terminanda">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668102809434</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="biblioteca_avila casi terminanda">
+      <created>1668102999183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668102999183</updated>
+    </task>
+    <task id="LOCAL-00004" summary="biblioteca_avila casi terminanda">
+      <created>1668103081444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668103081444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="biblioteca_avila &#10;falta ver error parte (Pestar)" />
     <MESSAGE value="biblioteca_avila &#10;falta ver error parte Prestar" />
-    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila &#10;falta ver error parte Prestar" />
+    <MESSAGE value="biblioteca_avila casi terminanda" />
+    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila casi terminanda" />
   </component>
 </project>
