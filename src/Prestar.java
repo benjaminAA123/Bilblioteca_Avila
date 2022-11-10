@@ -1,4 +1,3 @@
-package BaseBiblioteca;
 import java.util.ArrayList;
 import java.util.List;
 public class Prestar {
@@ -27,10 +26,10 @@ public class Prestar {
     }
 
     public void addLibro(Libro book){
-        this.book.add(book);
+        this.books.add(book);
     }
     public List<Libro> getBook() {
-        return book;
+        return books;
     }
 
     public void addUser(Usuarios user){
