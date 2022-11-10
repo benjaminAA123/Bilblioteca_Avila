@@ -34,10 +34,10 @@ public class Prestar {
     }
 
     public void addUser(Usuarios user){
-        this.user.add(user);
+        this.users.add(user);
     }
     public List<Usuarios> getUser() {
-        return user;
+        return users;
     }
 
 }
