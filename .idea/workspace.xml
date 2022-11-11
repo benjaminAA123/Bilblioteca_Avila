@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila falta imagen lucid">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila prueba">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668193394697</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="biblioteca_avila prueba">
+      <created>1668193803347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668193803347</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +130,7 @@
     <MESSAGE value="biblioteca_avila &#10;falta ver error parte Prestar" />
     <MESSAGE value="biblioteca_avila casi terminanda" />
     <MESSAGE value="biblioteca_avila falta imagen lucid" />
-    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila falta imagen lucid" />
+    <MESSAGE value="biblioteca_avila prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila prueba" />
   </component>
 </project>

@@ -49,7 +49,7 @@ public class Main {
         loan.setFecha_presentacion("Manolo");
         loan.setFecha_devuelta("Tomates");
 
-        System.out.println(loan.getFechapres());
-        System.out.println(loan.getFechadev());
+        System.out.println(loan.getFecha_presentacion());
+        System.out.println(loan.getFecha_devuelta());
     }
 }
