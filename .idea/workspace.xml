@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila casi terminanda" />
+    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila falta imagen lucid">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668192755529</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="biblioteca_avila casi terminanda">
+      <created>1668193124880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668193124880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="biblioteca_avila falta imagen lucid">
+      <created>1668193394697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668193394697</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +122,7 @@
     <MESSAGE value="biblioteca_avila &#10;falta ver error parte (Pestar)" />
     <MESSAGE value="biblioteca_avila &#10;falta ver error parte Prestar" />
     <MESSAGE value="biblioteca_avila casi terminanda" />
-    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila casi terminanda" />
+    <MESSAGE value="biblioteca_avila falta imagen lucid" />
+    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila falta imagen lucid" />
   </component>
 </project>
