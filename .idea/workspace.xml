@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila prueba">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e1ceff3-c315-478e-bdf2-e901cf7edb01" name="Changes" comment="biblioteca_avila pp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668193803347</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="biblioteca_avila pp">
+      <created>1668194096081</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668194096081</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +136,7 @@
     <MESSAGE value="biblioteca_avila casi terminanda" />
     <MESSAGE value="biblioteca_avila falta imagen lucid" />
     <MESSAGE value="biblioteca_avila prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila prueba" />
+    <MESSAGE value="biblioteca_avila pp" />
+    <option name="LAST_COMMIT_MESSAGE" value="biblioteca_avila pp" />
   </component>
 </project>
