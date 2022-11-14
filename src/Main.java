@@ -51,5 +51,7 @@ public class Main {
 
         System.out.println(loan.getFecha_presentacion());
         System.out.println(loan.getFecha_devuelta());
+
+
     }
 }
